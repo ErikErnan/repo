@@ -16,4 +16,4 @@ FE:
 BE
 
 - program je spring boot aplikacia, vyuziva Hibernate, spring boot validation, spring boot web,
-- nez sa spustia testy, je potrebne vybuildit mvn package
+- testy mozno spustit prikazom: mvn test
